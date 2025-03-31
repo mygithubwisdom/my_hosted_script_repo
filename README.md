@@ -25,6 +25,7 @@ age=25
 #referencing variables
 echo "My name is $name and I am $age years old." 
 ![Screenshot (998)](https://github.com/user-attachments/assets/037ed167-e512-44f1-b252-fcccac61517f)
+
 Task 4: 
 Using Variables
 Now that I have  declared variables, let's use them to perform a simple task
@@ -34,6 +35,7 @@ ii. ./script.sh
 If everything works correctly, the expected output should be displayed. 
 ![Screenshot (1001)](https://github.com/user-attachments/assets/19994a3a-af9d-4669-b7a6-2b9a39ffb2df)
 The ./ indicates that my script is located in the current working directory.When i ran ./script.sh, the system uses the interpreter specified in the shebang line (e.g. #!/bin/bash, ) to execute the commands in the script.
+
 Task 5: Using Built-in Variables
 Bash provides several built-in variables that hold useful information. I have created a bash script that utilizes at least three different built-in variables to display relevant information.
 Execution Process:
@@ -52,7 +54,7 @@ read num1
 Wildcards are special characters used in Linux shell commands to represent unknown or variable text patterns. When working with lines in a file or searching for text patterns, wildcards are often used with commands like:grep,cat or ls. 
 ![Screenshot (1003)](https://github.com/user-attachments/assets/62811a1c-3636-41fc-9dbd-d1c16cf48b33)
 
-Task 6: GitHub task. 
+Task 7: GitHub task. 
 This image shows that I have succefully hosted my script on my Repository i created which is : my_hosted_script_repo
 ![Screenshot (1005)](https://github.com/user-attachments/assets/fabe51aa-3640-4a76-ab1f-7ad9357ad848)
 

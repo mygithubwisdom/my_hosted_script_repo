@@ -48,9 +48,10 @@ The Command ./info_script.sh is used to execute script file named info_script, t
 Task 6. Wildcards
 Wildcards are special characters used to perform pattern matching when working with files. 
 
-#Prompt user the user to enter the first number
-echo "25."
+#Prompt the user to enter the first number,
+echo "25." ,
 read num1
+
 Wildcards are special characters used in Linux shell commands to represent unknown or variable text patterns. When working with lines in a file or searching for text patterns, wildcards are often used with commands like:grep,cat or ls. 
 ![Screenshot (1003)](https://github.com/user-attachments/assets/62811a1c-3636-41fc-9dbd-d1c16cf48b33)
 
